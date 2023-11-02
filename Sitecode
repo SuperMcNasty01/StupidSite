@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mr Big Schmiggidy Dibbles Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Mr Big Schmiggidy Dibbles Website</h1>
+        <p>Hey, this is Mr Big Schmiggidy Dibbles' website! Get out of here.</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>My name is Mr Big Schmiggidy Dibbles, and this is my personal website. I'm here to share my thoughts, experiences, and whatever else comes to mind.</p>
+        </section>
+
+        <section>
+            <h2>Contact Information</h2>
+            <p>Feel free to reach out to me:</p>
+            <ul>
+                <li>Email: [Your Email Address]</li>
+                <li>Phone: [Your Phone Number]</li>
+                <li>Social Media: [Your Social Media Profiles]</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Get out of here!</p>
+    </footer>
+</body>
+</html>
